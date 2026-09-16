@@ -1,0 +1,13 @@
+Enter array size (or 'Q' to quit): 100000000
+Enter target: -1
+Target found = false
+Time to complete linearSearch call: 46413100 nanoseconds
+Time to complete linearSearch call in seconds: 0.046413100 seconds
+----
+Enter array size (or 'Q' to quit): 100000000
+Enter target: -1
+Target found = false
+Time to complete binarySearch call: 26300 nanoseconds
+Time to complete binarySearch call in seconds: 0.000026300 seconds
+----
+Ratio is 1764.75 worst case binary searches per linear search (approximation)
